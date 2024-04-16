@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IDJoshy
+- 👋 Hi, I’m Josh
 - 👀 I’m interested in making videogames.
 - 🌱 I’m currently learning Unity coding.
 
