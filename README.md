@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Josh
 - 👀 I’m interested in making videogames.
-- 🌱 I’m currently learning Unity coding.
+- 🌱 I’m currently learning Unity C#.
 
 
 
