@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Josh
 - 👀 I’m interested in making videogames.
 - 🌱 I’m currently learning Unity C#.
-
+- ig: ![instagram](https://www.instagram.com/iosh.aa/)
 
 
 <!---
