@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Josh</h1>
-<h3 align="center">Chilean, 21yo, a passionate individual with an explorer mindset, searching for new ways to solve problems.</h3>
+<h3 align="center">Chilean, 23yo, a passionate individual with an explorer mindset, searching for new ways to solve problems.</h3>
 
 - 👀 I’m interested in making videogames.
 - 🌱 Currently studying to be a full stack developer.
